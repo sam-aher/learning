@@ -1,1 +1,3 @@
-# learning
+# git learning project
+
+for learning
